@@ -1,15 +1,8 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=2591000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-/dougsillars/video/upload/c_limit,w_1920,h_1080,vc_h264:high:4.0,br_8500k/v1518476665/bbb_38s_s0avek.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2591000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-/dougsillars/video/upload/c_limit,w_2560,h_1440,vc_h264:high:4.0,br_16m/v1518476665/bbb_38s_s0avek.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1037000,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=1280x720
-/dougsillars/video/upload/c_limit,w_1280,h_720,vc_h264:main:3.1,br_5500k/v1518476665/bbb_38s_s0avek.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=666000,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=960x540
-/dougsillars/video/upload/c_limit,w_960,h_540,vc_h264:main:3.1,br_3500k/v1518476665/bbb_38s_s0avek.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=524000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=640x360
-/dougsillars/video/upload/c_limit,w_640,h_360,vc_h264:baseline:3.0,br_2m/v1518476665/bbb_38s_s0avek.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=326000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=480x270
-/dougsillars/video/upload/c_limit,w_480,h_270,vc_h264:baseline:3.0,br_800k/v1518476665/bbb_38s_s0avek.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=215000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=320x180
-/dougsillars/video/upload/c_limit,w_320,h_240,vc_h264:baseline:3.0,br_192k/v1518476665/bbb_38s_s0avek.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2591000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080, http://res.cloudinary.com/dougsillars/video/upload/c_limit,w_1920,h_1080,vc_h264:high:4.0,br_8500k/v1518476665/bbb_38s_s0avek.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2591000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080, http://res.cloudinary.com/dougsillars/video/upload/c_limit,w_2560,h_1440,vc_h264:high:4.0,br_16m/v1518476665/bbb_38s_s0avek.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1037000,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=1280x720, http://res.cloudinary.com/dougsillars/video/upload/c_limit,w_1280,h_720,vc_h264:main:3.1,br_5500k/v1518476665/bbb_38s_s0avek.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=666000,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=960x540, http://res.cloudinary.com/dougsillars/video/upload/c_limit,w_960,h_540,vc_h264:main:3.1,br_3500k/v1518476665/bbb_38s_s0avek.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=524000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=640x360, http://res.cloudinary.com/dougsillars/video/upload/c_limit,w_640,h_360,vc_h264:baseline:3.0,br_2m/v1518476665/bbb_38s_s0avek.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=326000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=480x270, http://res.cloudinary.com/dougsillars/video/upload/c_limit,w_480,h_270,vc_h264:baseline:3.0,br_800k/v1518476665/bbb_38s_s0avek.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=215000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=320x180, http://res.cloudinary.com/dougsillars/video/upload/c_limit,w_320,h_240,vc_h264:baseline:3.0,br_192k/v1518476665/bbb_38s_s0avek.m3u8
