@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bitmovin Player full customized example</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet" type="text/css"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
+  <!-- Bitmovin Player -->
+  <script type="text/javascript" src="https://bitmovin-a.akamaihd.net/bitmovin-player/stable/7.6/bitmovinplayer.js"></script>
+  <style>
+
+  </style>
+</head>
+<body>
+<div id="player"></div>
+
+<script type="text/javascript">
+  var conf =   {
+    "key": "65917089-1905-4620-8ef9-ef23692bfa7c",
+    "source": {
+      "dash": "//bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+      "hls": "//bitmovin-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+    }
+  };
+  var player = bitmovin.player('player');
+
+  player.setup(conf).then(
+    function(value) {
+      // Success
+      console.log('Successfully created bitmovin player instance');
+    },
+    function(reason) {
+      // Error!
+      console.log('Error while creating bitmovin player instance');
+    }
+  );
+
+</script>
+</body>
+</html>
