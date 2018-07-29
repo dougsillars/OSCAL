@@ -25,7 +25,7 @@ https://hls.ted.com/videos/ShimpeiTakahashi_2013X/audio/600k.m3u8?qr=true&unique
 #EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=352209,PROGRAM-ID=1,CODECS="avc1.4d401f",RESOLUTION=853x480,URI="https://hls.ted.com/videos/ShimpeiTakahashi_2013X/video/950k_iframe.m3u8?qr=true&uniqueId=3a5427ce&preview=true"
 #EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=451747,PROGRAM-ID=1,CODECS="avc1.640028",RESOLUTION=1280x720,URI="https://hls.ted.com/videos/ShimpeiTakahashi_2013X/video/1500k_iframe.m3u8?qr=true&uniqueId=3a5427ce&preview=true"
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="600k",LANGUAGE="ja",NAME="Audio",AUTOSELECT=YES,DEFAULT=YES,URI="https://hls.ted.com/videos/ShimpeiTakahashi_2013X/audio/600k.m3u8?qr=true&uniqueId=3a5427ce&preview=true",BANDWIDTH=100400
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="600k",LANGUAGE="ja",NAME="Audio",AUTOSELECT=YES,DEFAULT=YES,URI="https://hls.ted.com/videos/ShimpeiTakahashi_2013X/audio/600k.m3u8?qr=true&uniqueId=3a5427ce&preview=true",BANDWIDTH=68267
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="el",NAME="Greek",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="https://hls.ted.com/talks/2208/subtitles/el.m3u8?uniqueId=3a5427ce&acme=true"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="en",NAME="English",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="https://hls.ted.com/talks/2208/subtitles/en.m3u8?uniqueId=3a5427ce&acme=true"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="vi",NAME="Vietnamese",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="https://hls.ted.com/talks/2208/subtitles/vi.m3u8?uniqueId=3a5427ce&acme=true"
