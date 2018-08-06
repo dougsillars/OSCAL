@@ -3,8 +3,12 @@
 #EXT-X-VERSION:4
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:11.958333,
-https://pb.tedcdn.com/bumpers/hls/video/in/Thousands-600k.ts
+#EXTINF:10.605,
+https://pb.tedcdn.com/bumpers/hls/video/in/Thousands-600k.ts?bytes=0-972335
+#EXTINF:1.36,
+https://pb.tedcdn.com/bumpers/hls/video/in/Thousands-600k.ts?bytes=972336-1097355
+#EXTINF:0.01850,
+https://pb.tedcdn.com/bumpers/hls/video/in/Thousands-600k.ts?bytes=1097356-1099047
 #EXT-X-DISCONTINUITY
 #EXTINF:8.4167,
 https://pb.tedcdn.com/talk/hls/video/2013X/ShimpeiTakahashi_2013X-600k-3a5427ce.ts?bytes=0-717031
