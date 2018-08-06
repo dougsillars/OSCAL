@@ -3,13 +3,13 @@
 #EXT-X-VERSION:4
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:,
+#EXTINF:1,
 https://pb.tedcdn.com/bumpers/hls/video/in/Thousands-600k.ts?bytes=0-100000
-#EXTINF:,
+#EXTINF:3,
 https://pb.tedcdn.com/bumpers/hls/video/in/Thousands-600k.ts?bytes=100000-400000
-#EXTINF:,
+#EXTINF:5,
 https://pb.tedcdn.com/bumpers/hls/video/in/Thousands-600k.ts?bytes=400000-900000
-#EXTINF:,
+#EXTINF:0.1,
 https://pb.tedcdn.com/bumpers/hls/video/in/Thousands-600k.ts?bytes=900000-1099047
 #EXT-X-DISCONTINUITY
 #EXTINF:8.4167,
