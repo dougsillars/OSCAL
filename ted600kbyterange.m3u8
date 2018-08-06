@@ -8,6 +8,7 @@ https://pb.tedcdn.com/bumpers/hls/video/in/Thousands-600k.ts
 #EXT-X-DISCONTINUITY
 #EXTINF:8.4167,
 https://pb.tedcdn.com/talk/hls/video/2013X/ShimpeiTakahashi_2013X-600k-3a5427ce.ts
+#EXTINF:5.6667,
 https://pb.tedcdn.com/talk/hls/video/2013X/ShimpeiTakahashi_2013X-600k-3a5427ce.ts
 #EXTINF:9.5000,
 https://pb.tedcdn.com/talk/hls/video/2013X/ShimpeiTakahashi_2013X-600k-3a5427ce.ts
@@ -16,9 +17,9 @@ https://pb.tedcdn.com/talk/hls/video/2013X/ShimpeiTakahashi_2013X-600k-3a5427ce.
 #EXTINF:5.5833,
 https://pb.tedcdn.com/talk/hls/video/2013X/ShimpeiTakahashi_2013X-600k-3a5427ce.ts
 #EXTINF:10.0000,
-https://pb.tedcdn.com/talk/hls/video/2013X/ShimpeiTakahashi_2013X-600k-3a5427ce.ts?bytes=2086048-2177791
+https://pb.tedcdn.com/talk/hls/video/2013X/ShimpeiTakahashi_2013X-600k-3a5427ce.ts
 #EXTINF:9.7500,
-https://pb.tedcdn.com/talk/hls/video/2013X/ShimpeiTakahashi_2013X-600k-3a5427ce.ts?bytes=2177792-3312747
+https://pb.tedcdn.com/talk/hls/video/2013X/ShimpeiTakahashi_2013X-600k-3a5427ce.ts
 #EXTINF:8.0833,
 https://pb.tedcdn.com/talk/hls/video/2013X/ShimpeiTakahashi_2013X-600k-3a5427ce.ts?bytes=3312748-4048203
 #EXTINF:9.5000,
