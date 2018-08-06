@@ -3,7 +3,7 @@
 #EXT-X-VERSION:4
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:11,
+#EXTINF:11.958333,
 https://pb.tedcdn.com/bumpers/hls/video/in/Thousands-600k.ts
 #EXT-X-DISCONTINUITY
 #EXTINF:8.4167,
